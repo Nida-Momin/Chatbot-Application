@@ -23,7 +23,7 @@ function App() {
     <div className="app-container">
       {/* --- REPLACE THE OLD HEADER WITH THIS NEW ONE --- */}
       <header className="app-header">
-        <h1 className="app-title">AI ChatBot</h1>
+        <h1 className="app-title">Talkmate AI</h1>
         <button onClick={handleSignOut} className="sign-out-button">
           Sign Out
         </button>
